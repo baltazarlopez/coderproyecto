@@ -187,11 +187,11 @@ h3 {
 footer {
   text-align: center;
   text-shadow: 0 0 10px rgb(255, 255, 255);
-  font-size: 35px;
+  font-size: 25px;
   font-family: "Teko", sans-serif;
   background-color: rgb(255, 0, 0);
   color: rgb(255, 255, 255);
-  padding: 50px;
+  padding: 10px;
 }
 footer p {
   margin-bottom: 10px;
@@ -212,12 +212,11 @@ footer p {
 }
 .mapa {
   text-align: center;
-  width: 400px;
-  margin: 0 auto;
+  width: 200px;
+  margin: 50;
   .maps {
-    width: 3 00px;
-    height: 300px;
-    border: 5px solid rgb(255, 0, 0);
+    width: 200px;
+    height: 150px;
   }
 }
 .socialess {
