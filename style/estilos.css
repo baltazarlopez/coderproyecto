@@ -256,6 +256,10 @@ footer p {
   margin: 5px;
 }
 
+.sociales :hover {
+  transform: scale(1.1);
+}
+
 .ferr {
   color: rgb(255, 255, 255);
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
